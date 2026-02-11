@@ -11,12 +11,6 @@ A real-time interactive dashboard for visualizing **options chains** of stocks/E
 
 Data is pulled from **Yahoo Finance** via `yfinance` and updated automatically every 10 seconds. Built with **Dash + Plotly**.
 
-### Screenshot (SPY 0DTE example)
-
-![Dashboard Screenshot](images/dashboard-example.png)
-
-*(Upload one or two real screenshots to the `images/` folder and update the path above)*
-
 ### Features
 
 - Modern dark theme (inspired by GitHub Dark / VS Code Dark+)  
