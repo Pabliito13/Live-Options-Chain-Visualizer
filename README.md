@@ -12,8 +12,7 @@ A real-time interactive dashboard for visualizing **options chains** of stocks/E
 Data is pulled from **Yahoo Finance** via `yfinance` and updated automatically every 10 seconds. Built with **Dash + Plotly**.
 
 ### Features
-
-- Modern dark theme (inspired by GitHub Dark / VS Code Dark+)  
+  
 - Simplified Black-Scholes Greeks calculation (Delta & Gamma)  
 - Side-by-side bars for Open Interest & Volume (much easier to read than overlapping lines)  
 - Live refresh every 10 seconds (interval is configurable)  
